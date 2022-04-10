@@ -28,7 +28,7 @@ export default function Home({allPostsData}) {
           <a href="https://www.linkedin.com/in/benjamin-guzman-4b6732235/">here</a>
         </p>
         <p>
-          Second page unavaliable
+          The Github for this project avaliable <a href="https://github.com/parzival-3x/nextjs-blog">here</a>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
